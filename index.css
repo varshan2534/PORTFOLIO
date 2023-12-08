@@ -1,0 +1,30 @@
+body{
+    background-color: #282828;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+}
+.table{
+    background-color:#652232;
+    text-align: center;
+    color: #EDF5E1;
+    height: 800px;
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
+#demo{
+    color: #EDF5E1;
+}
